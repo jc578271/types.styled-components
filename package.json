@@ -77,11 +77,17 @@
     "scripts": {},
     "dependencies": {
         "@types/hoist-non-react-statics": "*",
-        "csstype": "^3.0.2"
+        "csstype": "^3.0.2",
+        "stylis": "^4.2.0"
     },
     "devDependencies": {
         "@types/react": "*",
-        "@types/react-native": "*"
+        "@types/react-native": "*",
+        "@types/stylis": "^4.0.2",
+        "prop-types": "^15.8.1",
+        "react": "^17.0.2",
+        "react-native": "^0.70.6",
+        "typescript": "^4.9.5",
     },
     "typesPublisherContentHash": "82abba80a6b36bbad650d69ac31662b25f7b2d1b3cf1ea0bcfc8544d861d6b1a",
     "typeScriptVersion": "3.3"
